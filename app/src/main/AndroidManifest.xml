@@ -1,0 +1,3 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:host="https://instantapp.example.com/"
+    package="com.example.ghostman.myapplication.app" />
